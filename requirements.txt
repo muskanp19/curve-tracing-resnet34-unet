@@ -1,0 +1,7 @@
+torch
+segmentation-models-pytorch
+numpy
+opencv-python-headless
+scipy
+matplotlib
+tqdm

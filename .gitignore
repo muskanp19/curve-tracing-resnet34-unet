@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Model checkpoints and generated results
+*.pt
+*.pth
+*.npy
+*.npz
+*.zip
+predictions/
+outputs/
+runs/
+
+# Local scans and optional labeled validation data
+data/
+scans/
+real_validation/
